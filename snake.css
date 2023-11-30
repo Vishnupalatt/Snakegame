@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color:cadetblue;
+
+}
+
+#canvas{
+    border: solid 2px black;
+
+}
+div{
+ 
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
